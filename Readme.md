@@ -5,7 +5,7 @@ We used C++ only as a learning languague, we did not aim to any particular imple
 
 ### Implementation
 
-We first imported a examaple database and transform it into an array with objects.
+We first imported a example database and transform it into an array with objects.
 Then we recreated the array in a vector with linked list, as in:
 
 ```cpp
