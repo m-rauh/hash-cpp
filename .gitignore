@@ -3,3 +3,5 @@ Hash.d
 main.d
 Makefile
 Elemen.d
+obj
+local.session.sql
