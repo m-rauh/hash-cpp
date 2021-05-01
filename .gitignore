@@ -1,7 +1,4 @@
 .vscode
-Hash.d
-main.d
+*.d
+obj/
 Makefile
-Element.d
-obj
-local.session.sql
